@@ -1,0 +1,85 @@
+li{
+	list-style-type:none;
+	float:left;
+}
+a:link{
+	color:white;
+	text-decoration:none;
+	background-color:transparent;
+}
+a:visited{
+	color:lime;
+}
+a:hover{
+	color:blue;
+	text-decoration:underline;
+	background-color:transparent;
+}
+a.active{
+	color:cyan;
+	text-decoration:underline;
+}
+.wrapper{
+	color:red;
+	font-family:helvatica;
+	font-size:135%;
+	width:98%
+}
+#CD1{
+	float:left;
+}
+#CD2{
+	float:right;
+}
+.songs{
+	float:right;
+	text-align:center;
+	width:50%;
+}
+.cover{
+	height:150px;
+	Width:150px;
+}
+.home{
+	text-align:center;
+}
+.members{
+	float:left;
+	border-radius:15px;
+	border:1px solid lime;
+	margin-left:1cm;
+}
+p{
+	margin-left:1cm;
+}
+.col-sm-12{
+	text-align:center;
+}
+.RapMonster{
+	float:left;
+	width:50%;
+}
+.Jin{
+	float:left;
+	width:50%;
+}
+.Suga{
+	float:left;
+	width:50%;
+}
+.J-Hope{
+	float:left;
+	width:50%;
+}
+.Jimin{
+	float:left;
+	width:50%;
+}
+.V{
+	float:left;
+	width:50%;
+}
+.Kookie{
+	float:left;
+	width:50%;
+}
